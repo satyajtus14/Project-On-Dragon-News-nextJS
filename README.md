@@ -2,11 +2,17 @@
 
 <div align="center">
 
-<!-- TODO: Add project logo (e.g., a dragon or news-related icon) -->
-<!-- ![Logo](public/logo.png) -->
+
+<p align="center">
+  <img src="public/logo.png" alt="Logo" width="200" />
+</p>
 
 
-**Dragon News is a responsive front-end web application delivering real-time news articles with personalized access through secure user authentication.**
+
+**Dragon News is a responsive front-end web application that delivers real-time news articles with personalized access via secure user authentication.**
+
+
+[Live Demo](https://satyajtus14.github.io/Project-On-Dragon-News-nextJS) 
 
 <!-- TODO: Add live demo link if available -->
 <!-- [Live Demo](https://dragon-news-demo.vercel.app) -->
