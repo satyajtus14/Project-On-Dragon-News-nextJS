@@ -218,7 +218,7 @@ This project is currently **Unlicensed**. Please consider adding a license like 
 ## 📞 Support & Contact
 
 -   🐛 **Issues**: Report bugs or suggest features via [GitHub Issues](https://github.com/satyajtus14/Project-On-Dragon-News-nextJS/issues).
--   👤 **Author**: [satyajtus14](https://github.com/satyajtus14)
+-   👤 **Author**: [SATYAJIT BARUA](https://github.com/satyajtus14)
 
 ---
 
