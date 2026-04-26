@@ -226,6 +226,6 @@ This project is currently **Unlicensed**. Please consider adding a license like 
 
 **⭐ Star this repo if you find it helpful!**
 
-Made with ❤️ by [satyajtus14](https://github.com/satyajtus14)
+Made with ❤️ by [SATYAJIT BARUA](https://github.com/satyajtus14)
 
 </div>
