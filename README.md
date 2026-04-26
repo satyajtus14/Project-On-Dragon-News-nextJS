@@ -5,10 +5,6 @@
 <!-- TODO: Add project logo (e.g., a dragon or news-related icon) -->
 <!-- ![Logo](public/logo.png) -->
 
-[![GitHub stars](https://img.shields.io/github/stars/satyajtus14/Project-On-Dragon-News-nextJS?style=for-the-badge)](https://github.com/satyajtus14/Project-On-Dragon-News-nextJS/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/satyajtus14/Project-On-Dragon-News-nextJS?style=for-the-badge)](https://github.com/satyajtus14/Project-On-Dragon-News-nextJS/network)
-[![GitHub issues](https://img.shields.io/github/issues/satyajtus14/Project-On-Dragon-News-nextJS?style=for-the-the-badge)](https://github.com/satyajtus14/Project-On-Dragon-News-nextJS/issues)
-[![License](https://img.shields.io/badge/License-Unlicensed-red?style=for-the-badge)](LICENSE)
 
 **Dragon News is a responsive front-end web application delivering real-time news articles with personalized access through secure user authentication.**
 
