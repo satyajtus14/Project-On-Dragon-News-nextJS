@@ -8,9 +8,9 @@ const Navbar = () => {
           <div className='flex justify-between container mx-auto'>
               <div></div>
               <ul className='flex justify-between items-center gap-4 text-gray-700'>
-              <li><NavLink href={"/"}>Home</NavLink></li>
-              <li><NavLink href={"/about-us"}>About</NavLink></li>
-              <li><NavLink href={"/career"}>Career</NavLink></li>
+              <li className='font-semibold text-lg'><NavLink href={"/"}>Home</NavLink></li>
+              <li className='font-semibold text-lg'><NavLink href={"/about-us"}>About</NavLink></li>
+              <li className='font-semibold text-lg'><NavLink href={"/career"}>Career</NavLink></li>
             </ul>
             
             <div className='flex items-center gap-2'>
