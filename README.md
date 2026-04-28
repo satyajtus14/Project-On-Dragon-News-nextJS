@@ -39,9 +39,10 @@ Dragon News is a modern, responsive web application built with Next.js and React
 <!-- ![Mobile Screenshot](public/screenshot-mobile.png) -->
 
 ## Live Link:
- - Github: https://satyajtus14.github.io/Project-KeenKeeper-Apps
- - Netlify: https://project-keenkeeper-apps.netlify.app/
+ 
  - Vercel: https://project-on-dragon-news-next-js.vercel.app/
+ - Netlify: https://project-keenkeeper-apps.netlify.app/
+ - Github: https://satyajtus14.github.io/Project-KeenKeeper-Apps
 
 ## 🛠️ Tech Stack
 
