@@ -11,13 +11,20 @@ const RightSidebar = () => {
   });
   console.log(data,"Google Login");
     }
+
+    const handGithubLogin = async() => {
+         const data = await authClient.signIn.social({
+        provider: "github"
+    });
+    console.log(data,"GitHub Login");
+    }
     return (
         <div className='container mx-auto'>
             <h2 className='font-bold text-lg text-left'>Login with</h2>
             <div className='flex flex-col gap-2'>
 
             <button className='btn border-blue-500 text-blue-500'onClick={handleGoogleLogin}><FaGoogle /> Login with google</button>
-            <button className='btn border-slate-500 text-black'><FaGithub /> Login with github</button>
+            <button className='btn border-slate-500 text-black'onClick={handGithubLogin}><FaGithub /> Login with github</button>
             </div>
            
             <h2 className='font-bold text-lg my-5 mt-5 text-left'>Finds Us on</h2>
